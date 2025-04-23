@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Library Management System
 
 A modern web application built with the MERN stack for managing library books and users. Features a beautiful UI with a gradient lavender background and responsive design.
@@ -68,3 +69,6 @@ This project is licensed under the MIT License.
 =======
 # Website
 >>>>>>> dd217f37e5c75d16a354d2b6e1b06edb8e2de94c
+=======
+# Library-Management-
+>>>>>>> 19b7992db300245be0ef28298c55aa5d9a9ab1b8
